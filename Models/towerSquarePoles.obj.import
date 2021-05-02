@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSquarePoles.obj-6f6b7ce9e675ef84d04646dbfeee5957.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSquarePoles.obj-6f6b7ce9e675ef84d04646dbfeee5957.mesh" ]
+
+source_file="res://Models/towerSquarePoles.obj"
+dest_files=[ "res://.import/towerSquarePoles.obj-6f6b7ce9e675ef84d04646dbfeee5957.mesh", "res://.import/towerSquarePoles.obj-6f6b7ce9e675ef84d04646dbfeee5957.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/siegeRam.obj-6064138ef755c5ef15b8573c6f08af11.mesh"
+
+[deps]
+
+files=[ "res://.import/siegeRam.obj-6064138ef755c5ef15b8573c6f08af11.mesh" ]
+
+source_file="res://Models/siegeRam.obj"
+dest_files=[ "res://.import/siegeRam.obj-6064138ef755c5ef15b8573c6f08af11.mesh", "res://.import/siegeRam.obj-6064138ef755c5ef15b8573c6f08af11.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

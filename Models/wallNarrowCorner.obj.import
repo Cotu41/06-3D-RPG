@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowCorner.obj-a4515a395e91a5bff03cf9ac1be139ca.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowCorner.obj-a4515a395e91a5bff03cf9ac1be139ca.mesh" ]
+
+source_file="res://Models/wallNarrowCorner.obj"
+dest_files=[ "res://.import/wallNarrowCorner.obj-a4515a395e91a5bff03cf9ac1be139ca.mesh", "res://.import/wallNarrowCorner.obj-a4515a395e91a5bff03cf9ac1be139ca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowGate.obj-cbbe0bd1720ac4276533d6dea06d2f4f.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowGate.obj-cbbe0bd1720ac4276533d6dea06d2f4f.mesh" ]
+
+source_file="res://Models/wallNarrowGate.obj"
+dest_files=[ "res://.import/wallNarrowGate.obj-cbbe0bd1720ac4276533d6dea06d2f4f.mesh", "res://.import/wallNarrowGate.obj-cbbe0bd1720ac4276533d6dea06d2f4f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

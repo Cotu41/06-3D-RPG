@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowStairs.obj-e19b56d6d9733c6ba917cf446985e586.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowStairs.obj-e19b56d6d9733c6ba917cf446985e586.mesh" ]
+
+source_file="res://Models/wallNarrowStairs.obj"
+dest_files=[ "res://.import/wallNarrowStairs.obj-e19b56d6d9733c6ba917cf446985e586.mesh", "res://.import/wallNarrowStairs.obj-e19b56d6d9733c6ba917cf446985e586.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

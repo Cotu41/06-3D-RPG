@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowWoodFence.obj-49ee49a628b77d6f5ddaf86612b558ea.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowWoodFence.obj-49ee49a628b77d6f5ddaf86612b558ea.mesh" ]
+
+source_file="res://Models/wallNarrowWoodFence.obj"
+dest_files=[ "res://.import/wallNarrowWoodFence.obj-49ee49a628b77d6f5ddaf86612b558ea.mesh", "res://.import/wallNarrowWoodFence.obj-49ee49a628b77d6f5ddaf86612b558ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

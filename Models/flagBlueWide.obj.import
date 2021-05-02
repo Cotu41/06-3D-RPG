@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flagBlueWide.obj-995617309c1481ab0ca2857a02c0d93f.mesh"
+
+[deps]
+
+files=[ "res://.import/flagBlueWide.obj-995617309c1481ab0ca2857a02c0d93f.mesh" ]
+
+source_file="res://Models/flagBlueWide.obj"
+dest_files=[ "res://.import/flagBlueWide.obj-995617309c1481ab0ca2857a02c0d93f.mesh", "res://.import/flagBlueWide.obj-995617309c1481ab0ca2857a02c0d93f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

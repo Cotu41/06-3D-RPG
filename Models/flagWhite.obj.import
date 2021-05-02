@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flagWhite.obj-8627a5830acd8f3f04f350fbbdafe40d.mesh"
+
+[deps]
+
+files=[ "res://.import/flagWhite.obj-8627a5830acd8f3f04f350fbbdafe40d.mesh" ]
+
+source_file="res://Models/flagWhite.obj"
+dest_files=[ "res://.import/flagWhite.obj-8627a5830acd8f3f04f350fbbdafe40d.mesh", "res://.import/flagWhite.obj-8627a5830acd8f3f04f350fbbdafe40d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

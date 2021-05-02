@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSquareBaseColor.obj-10b985d5c35a5a1fa5086f5a1b403458.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSquareBaseColor.obj-10b985d5c35a5a1fa5086f5a1b403458.mesh" ]
+
+source_file="res://Models/towerSquareBaseColor.obj"
+dest_files=[ "res://.import/towerSquareBaseColor.obj-10b985d5c35a5a1fa5086f5a1b403458.mesh", "res://.import/towerSquareBaseColor.obj-10b985d5c35a5a1fa5086f5a1b403458.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

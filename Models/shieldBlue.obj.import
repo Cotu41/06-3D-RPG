@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shieldBlue.obj-77ea83b9b151b7201e4f456e35c12fcc.mesh"
+
+[deps]
+
+files=[ "res://.import/shieldBlue.obj-77ea83b9b151b7201e4f456e35c12fcc.mesh" ]
+
+source_file="res://Models/shieldBlue.obj"
+dest_files=[ "res://.import/shieldBlue.obj-77ea83b9b151b7201e4f456e35c12fcc.mesh", "res://.import/shieldBlue.obj-77ea83b9b151b7201e4f456e35c12fcc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

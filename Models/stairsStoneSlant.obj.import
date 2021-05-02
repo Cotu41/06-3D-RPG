@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairsStoneSlant.obj-ab7f7e6435455d234df8809a90fff310.mesh"
+
+[deps]
+
+files=[ "res://.import/stairsStoneSlant.obj-ab7f7e6435455d234df8809a90fff310.mesh" ]
+
+source_file="res://Models/stairsStoneSlant.obj"
+dest_files=[ "res://.import/stairsStoneSlant.obj-ab7f7e6435455d234df8809a90fff310.mesh", "res://.import/stairsStoneSlant.obj-ab7f7e6435455d234df8809a90fff310.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

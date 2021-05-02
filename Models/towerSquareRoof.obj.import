@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSquareRoof.obj-0bcb4df598dcd324ed45f06368368037.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSquareRoof.obj-0bcb4df598dcd324ed45f06368368037.mesh" ]
+
+source_file="res://Models/towerSquareRoof.obj"
+dest_files=[ "res://.import/towerSquareRoof.obj-0bcb4df598dcd324ed45f06368368037.mesh", "res://.import/towerSquareRoof.obj-0bcb4df598dcd324ed45f06368368037.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shieldRed.obj-eb3bc32ee8263b9c89dcc8ea924e5540.mesh"
+
+[deps]
+
+files=[ "res://.import/shieldRed.obj-eb3bc32ee8263b9c89dcc8ea924e5540.mesh" ]
+
+source_file="res://Models/shieldRed.obj"
+dest_files=[ "res://.import/shieldRed.obj-eb3bc32ee8263b9c89dcc8ea924e5540.mesh", "res://.import/shieldRed.obj-eb3bc32ee8263b9c89dcc8ea924e5540.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
